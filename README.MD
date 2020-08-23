@@ -33,7 +33,7 @@
 
 ### Макет
 
-![макет](https://github.com/ynimjvc/js_test/blob/master/2018-11-19%2010.47.36.jpg)
+![макет](https://github.com/dots-proit/test-task-junior-front-end-developer/blob/master/layout.jpg)
 
 ## Frontend
 
